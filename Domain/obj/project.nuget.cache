@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mVZp1doe7FxvtnUoYUSczFoRcirrgv/NhmFb7IyIzxtryvzYBn1ZxVhm1d3JHHO1Nxa8ncGnJuknxz+8m2pf2w==",
+  "dgSpecHash": "JWkemnoIimYwVzbAo/AIcl1VPXyhz2lTM/g233hogEBlPSBgsqodQPsU0TmNiS0RSU8jwNlii+qlUnOghpCZkg==",
   "success": true,
-  "projectFilePath": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\Financeiro_2023\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\API-Financeiro_2023\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

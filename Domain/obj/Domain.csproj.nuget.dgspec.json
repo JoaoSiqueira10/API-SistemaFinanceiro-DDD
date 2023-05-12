@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\Financeiro_2023\\Domain\\Domain.csproj": {}
+    "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\API-Financeiro_2023\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\Financeiro_2023\\Domain\\Domain.csproj": {
+    "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\API-Financeiro_2023\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\Financeiro_2023\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\API-Financeiro_2023\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\Financeiro_2023\\Domain\\Domain.csproj",
+        "projectPath": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\API-Financeiro_2023\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\João Guilherme\\.nuget\\packages\\",
-        "outputPath": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\Financeiro_2023\\Domain\\obj\\",
+        "outputPath": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\API-Financeiro_2023\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
