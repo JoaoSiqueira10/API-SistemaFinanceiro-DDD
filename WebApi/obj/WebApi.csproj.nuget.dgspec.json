@@ -31,7 +31,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\API-Financeiro_2023\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\JG WorkFile\\Programação\\C#\\Financeiro DDD\\Sistema Financeiro DDD com Angular\\API-Financeiro_2023\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

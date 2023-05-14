@@ -10,3 +10,6 @@ D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angula
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Domain\obj\Debug\net7.0\Domain.pdb
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Domain\bin\Debug\net7.0\Entities.dll
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Domain\bin\Debug\net7.0\Entities.pdb
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
