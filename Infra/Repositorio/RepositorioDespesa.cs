@@ -5,6 +5,7 @@ using Infra.Repositorio.Generics;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,9 +14,10 @@ namespace Infra.Repositorio
 {
     public class RepositorioDespesa : RepositoryGenerics<Despesa>, InterfaceDespesa
     {
+
         private readonly DbContextOptions<ContextBase> _OptionsBuilder;
 
-        public RepositorioDespesa() 
+        public RepositorioDespesa()
         {
             _OptionsBuilder = new DbContextOptions<ContextBase>();
         }
@@ -24,9 +26,8 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
-                // Query para o trazer tdas as despesas pagas do usuario
-                return await(
-                    from s in banco.SistemaFinanceiro
+                return await
+                   (from s in banco.SistemaFinanceiro
                     join c in banco.Categoria on s.Id equals c.IdSistema
                     join us in banco.UsuarioSistemaFinanceiro on s.Id equals us.IdSistema
                     join d in banco.Despesa on c.Id equals d.IdCategoria
@@ -39,9 +40,8 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
-                // Query para o trazer tdas as despesas não pagas do usuario
-                return await (
-                    from s in banco.SistemaFinanceiro
+                return await
+                   (from s in banco.SistemaFinanceiro
                     join c in banco.Categoria on s.Id equals c.IdSistema
                     join us in banco.UsuarioSistemaFinanceiro on s.Id equals us.IdSistema
                     join d in banco.Despesa on c.Id equals d.IdCategoria

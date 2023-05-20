@@ -5,11 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interfaces.InterfaceService
+namespace Domain.Interfaces.InterfaceServicos
 {
     public interface ICategoriaServico
     {
-        Task AdicionarCategoria(Categoria categoria);
-        Task AtualizarCategoria(Categoria categoria);
+        Task AdicionarCategoria(Categoria catagoria);
+        Task AtualizarCategoria(Categoria catagoria);
     }
 }

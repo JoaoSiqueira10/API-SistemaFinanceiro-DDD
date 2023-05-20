@@ -11,8 +11,8 @@ namespace Infra.Configuracao
 {
     public class ContextBase : IdentityDbContext<ApplicationUser>
     {
-        public ContextBase(DbContextOptions options) : base(options)
-        {             
+        public ContextBase( DbContextOptions options) : base(options)
+        {
         }
 
         public DbSet<SistemaFinanceiro> SistemaFinanceiro { set; get; }
@@ -20,7 +20,6 @@ namespace Infra.Configuracao
         public DbSet<Categoria> Categoria { set; get; }
         public DbSet<Despesa> Despesa { set; get; }
 
-        //verifica se a URL esta direcionada para o banco de dados
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -28,18 +27,25 @@ namespace Infra.Configuracao
                 optionsBuilder.UseSqlServer(ObterStringConexao());
                 base.OnConfiguring(optionsBuilder);
             }
-            
         }
+
+
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<ApplicationUser>().ToTable("AspNetUsers").HasKey(t => t.Id);
+
             base.OnModelCreating(builder);
         }
 
+
         public string ObterStringConexao()
         {
-            return "Data Source=DESKTOP-S42DPI7;Initial Catalog=DDD_Financeiro_2023;Integrated Security=True";
+            //return "Data Source=NBQSP-FC693;Initial Catalog=FINANCEIRO_2023;Integrated Security=False;User ID=sa;Password=1234;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
+
+            return "Data Source=DESKTOP-S42DPI7;Initial Catalog=DDD_Financeiro_2023;Integrated Security=True;TrustServerCertificate=True"; // Evitar
         }
+
+
     }
 }

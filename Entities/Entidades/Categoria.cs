@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Entities.Entidades
 {
+
     [Table("Categoria")]
     public class Categoria : Base
     {
@@ -14,6 +15,5 @@ namespace Entities.Entidades
         [Column(Order = 1)]
         public int IdSistema { get; set; }
         public virtual SistemaFinanceiro SistemaFinanceiro { get; set; }
-
     }
 }

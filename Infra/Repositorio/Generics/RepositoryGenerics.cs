@@ -1,7 +1,6 @@
 ﻿using Domain.Interfaces.Generics;
 using Infra.Configuracao;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 using Microsoft.Win32.SafeHandles;
 using System;
 using System.Collections.Generic;
@@ -17,7 +16,8 @@ namespace Infra.Repositorio.Generics
     {
         private readonly DbContextOptions<ContextBase> _OptionsBuilder;
 
-        public RepositoryGenerics() 
+
+        public RepositoryGenerics()
         {
             _OptionsBuilder = new DbContextOptions<ContextBase>();
         }

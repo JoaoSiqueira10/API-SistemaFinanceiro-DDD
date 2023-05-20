@@ -6,23 +6,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Domain.Servicos
 {
-    public class SistemaFinanceiroServico : ISistemaFinanceiroServico
+    public  class SistemaFinanceiroServico : ISistemaFinanceiroServico
     {
         private readonly InterfaceSistemaFinanceiro _interfaceSistemaFinanceiro;
-        public SistemaFinanceiroServico(InterfaceSistemaFinanceiro interfaceSistemaFinanceiro) 
+
+        public SistemaFinanceiroServico(InterfaceSistemaFinanceiro interfaceSistemaFinanceiro)
         {
             _interfaceSistemaFinanceiro = interfaceSistemaFinanceiro;
         }
 
         public async Task AdicionarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro)
         {
-            var valido = sistemaFinanceiro.ValidarPropriedadeString(sistemaFinanceiro.Nome, "Nome");
+             var valido = sistemaFinanceiro.ValidarPropriedadeString(sistemaFinanceiro.Nome, "Nome");
 
-            if (valido)
+            if(valido)
             {
                 var data = DateTime.Now;
 
@@ -34,7 +34,7 @@ namespace Domain.Servicos
                 sistemaFinanceiro.GerarCopiaDespesa = true;
 
                 await _interfaceSistemaFinanceiro.Add(sistemaFinanceiro);
-            }            
+            }
         }
 
         public async Task AtualizarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro)
@@ -44,7 +44,7 @@ namespace Domain.Servicos
             if (valido)
             {
                 sistemaFinanceiro.DiaFechamento = 1;
-                await _interfaceSistemaFinanceiro.Add(sistemaFinanceiro);
+                await _interfaceSistemaFinanceiro.Update(sistemaFinanceiro);
             }
         }
     }

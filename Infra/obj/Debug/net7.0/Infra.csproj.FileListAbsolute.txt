@@ -1,17 +1,102 @@
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\bin\Debug\net7.0\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\bin\Debug\net7.0\Infra.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\Infra.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\ref\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\bin\Debug\net7.0\Domain.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\bin\Debug\net7.0\Domain.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\bin\Debug\net7.0\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\bin\Debug\net7.0\Infra.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\bin\Debug\net7.0\Domain.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\bin\Debug\net7.0\Domain.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\Infra.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte5\Infra\obj\Debug\net7.0\ref\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\bin\Debug\net7.0\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\bin\Debug\net7.0\Infra.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\bin\Debug\net7.0\Domain.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\bin\Debug\net7.0\Domain.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\Infra.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte7\Infra\obj\Debug\net7.0\ref\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\bin\Debug\net7.0\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\bin\Debug\net7.0\Infra.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\bin\Debug\net7.0\Domain.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\bin\Debug\net7.0\Entities.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\bin\Debug\net7.0\Domain.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\bin\Debug\net7.0\Entities.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\Infra.pdb
+C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Infra\obj\Debug\net7.0\ref\Infra.dll
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\bin\Debug\net7.0\Infra.dll
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\bin\Debug\net7.0\Infra.pdb
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\bin\Debug\net7.0\Domain.dll
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\bin\Debug\net7.0\Entities.dll
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\bin\Debug\net7.0\Domain.pdb
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\bin\Debug\net7.0\Entities.pdb
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\Infra.dll
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\Infra.pdb
+C:\Users\João Guilherme\Desktop\Implementando-JWT-SistemaFinanceiro-2023-Parte-8-main\Infra\obj\Debug\net7.0\ref\Infra.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Infra.deps.json
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Infra.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Infra.pdb
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Domain.dll
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Entities.dll
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Domain.pdb
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Entities.pdb
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\refint\Infra.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.pdb
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\ref\Infra.dll
-D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Domain.dll
-D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Entities.dll
-D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Domain.pdb
-D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\bin\Debug\net7.0\Entities.pdb
-D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete

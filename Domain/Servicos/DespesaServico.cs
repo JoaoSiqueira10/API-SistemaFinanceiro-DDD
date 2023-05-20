@@ -1,5 +1,5 @@
 ﻿using Domain.Interfaces.IDespesa;
-using Domain.Interfaces.InterfaceService;
+using Domain.Interfaces.InterfaceServicos;
 using Entities.Entidades;
 using System;
 using System.Collections.Generic;
@@ -11,24 +11,24 @@ namespace Domain.Servicos
 {
     public class DespesaServico : IDespesaServico
     {
-        private readonly InterfaceDespesa _interfaceDespesa;
-        public DespesaServico(InterfaceDespesa interfaceDespesa) 
+
+        private readonly InterfaceDespesa _InterfaceDespesa;
+        public DespesaServico(InterfaceDespesa InterfaceDespesa)
         {
-            _interfaceDespesa = interfaceDespesa;
+            _InterfaceDespesa = InterfaceDespesa;
         }
 
         public async Task AdicionarDespesa(Despesa despesa)
         {
             var data = DateTime.UtcNow;
-            despesa.DataAlteracao = data;
+            despesa.DataCadastro = data;
             despesa.Ano = data.Year;
             despesa.Mes = data.Month;
 
             var valido = despesa.ValidarPropriedadeString(despesa.Nome, "Nome");
             if (valido)
-            {
-                await _interfaceDespesa.Add(despesa);
-            }
+                await _InterfaceDespesa.Add(despesa);
+
         }
 
         public async Task AtualizarDespesa(Despesa despesa)
@@ -40,12 +40,10 @@ namespace Domain.Servicos
             {
                 despesa.DataPagamento = data;
             }
-            
+
             var valido = despesa.ValidarPropriedadeString(despesa.Nome, "Nome");
             if (valido)
-            {
-                await _interfaceDespesa.Update(despesa);
-            }
+                await _InterfaceDespesa.Update(despesa);
         }
     }
 }

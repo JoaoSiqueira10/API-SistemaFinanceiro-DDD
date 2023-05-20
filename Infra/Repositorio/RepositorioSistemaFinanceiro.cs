@@ -13,6 +13,7 @@ namespace Infra.Repositorio
 {
     public class RepositorioSistemaFinanceiro : RepositoryGenerics<SistemaFinanceiro>, InterfaceSistemaFinanceiro
     {
+
         private readonly DbContextOptions<ContextBase> _OptionsBuilder;
 
         public RepositorioSistemaFinanceiro()
@@ -24,10 +25,9 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
-                // Query para o trazer tdas os sistemas financeiros do usuario
-                return await (
-                    from s in banco.SistemaFinanceiro                    
-                    join us in banco.UsuarioSistemaFinanceiro on s.Id equals us.IdSistema                    
+                return await
+                   (from s in banco.SistemaFinanceiro 
+                    join us in banco.UsuarioSistemaFinanceiro on s.Id equals us.IdSistema                   
                     where us.EmailUsuario.Equals(emailUsuario) 
                     select s).AsNoTracking().ToListAsync();
             }

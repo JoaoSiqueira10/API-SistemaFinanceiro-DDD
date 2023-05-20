@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interfaces.InterfaceService
+namespace Domain.Interfaces.InterfaceServicos
 {
     public interface IDespesaServico
     {
