@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace Entities.Entidades
 {
-
     [Table("UsuarioSistemaFinanceiro")]
     public class UsuarioSistemaFinanceiro
     {
@@ -15,7 +14,6 @@ namespace Entities.Entidades
         public string EmailUsuario { get; set; }
         public bool Administrador { get; set; }
         public bool SistemaAtual { get; set; }
-
 
         [ForeignKey("SistemaFinanceiro")]
         [Column(Order = 1)]

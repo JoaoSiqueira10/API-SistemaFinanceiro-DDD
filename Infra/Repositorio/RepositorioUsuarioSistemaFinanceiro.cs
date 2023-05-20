@@ -25,6 +25,7 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
+                // Query para o trazer tdas os usuarios do sistema financeiro
                 return await
                     banco.UsuarioSistemaFinanceiro
                     .Where(s => s.IdSistema == IdSistema).AsNoTracking()
@@ -36,8 +37,8 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
-                return await
-                    banco.UsuarioSistemaFinanceiro.AsNoTracking().FirstOrDefaultAsync(x => x.EmailUsuario.Equals(emailUsuario));
+                // Query para o trazer somente um usuario do sistema financeiro
+                return await banco.UsuarioSistemaFinanceiro.AsNoTracking().FirstOrDefaultAsync(x => x.EmailUsuario.Equals(emailUsuario));
             }
         }
 
@@ -45,6 +46,7 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
+                // Query para o remover o usuario do sistema financeiro
                 banco.UsuarioSistemaFinanceiro
                .RemoveRange(usuarios);
 

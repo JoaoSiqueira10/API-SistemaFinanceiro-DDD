@@ -25,6 +25,7 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
+                // Query para o trazer tdas as categorias do usuario
                 return await
                     (from s in banco.SistemaFinanceiro
                      join c in banco.Categoria on s.Id equals c.IdSistema

@@ -11,7 +11,6 @@ namespace Domain.Servicos
 {
     public class DespesaServico : IDespesaServico
     {
-
         private readonly InterfaceDespesa _InterfaceDespesa;
         public DespesaServico(InterfaceDespesa InterfaceDespesa)
         {

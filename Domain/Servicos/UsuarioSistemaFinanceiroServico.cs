@@ -11,7 +11,6 @@ namespace Domain.Servicos
 {
     public class UsuarioSistemaFinanceiroServico : IUsuarioSistemaFinanceiroServico
     {
-
         private readonly InterfaceUsuarioSistemaFinanceiro _interfaceUsuarioSistemaFinanceiro;
 
         public UsuarioSistemaFinanceiroServico(InterfaceUsuarioSistemaFinanceiro interfaceUsuarioSistemaFinanceiro)

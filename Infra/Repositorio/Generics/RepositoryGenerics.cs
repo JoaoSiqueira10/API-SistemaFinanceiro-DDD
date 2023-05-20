@@ -16,7 +16,6 @@ namespace Infra.Repositorio.Generics
     {
         private readonly DbContextOptions<ContextBase> _OptionsBuilder;
 
-
         public RepositoryGenerics()
         {
             _OptionsBuilder = new DbContextOptions<ContextBase>();

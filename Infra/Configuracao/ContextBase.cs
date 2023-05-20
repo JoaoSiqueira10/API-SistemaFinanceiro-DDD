@@ -20,6 +20,7 @@ namespace Infra.Configuracao
         public DbSet<Categoria> Categoria { set; get; }
         public DbSet<Despesa> Despesa { set; get; }
 
+        //verifica se a URL esta direcionada para o banco de dados
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -29,15 +30,12 @@ namespace Infra.Configuracao
             }
         }
 
-
-
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<ApplicationUser>().ToTable("AspNetUsers").HasKey(t => t.Id);
 
             base.OnModelCreating(builder);
         }
-
 
         public string ObterStringConexao()
         {

@@ -14,7 +14,6 @@ namespace Infra.Repositorio
 {
     public class RepositorioDespesa : RepositoryGenerics<Despesa>, InterfaceDespesa
     {
-
         private readonly DbContextOptions<ContextBase> _OptionsBuilder;
 
         public RepositorioDespesa()
@@ -26,6 +25,7 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
+                // Query para o trazer tdas as despesas pagas do usuario
                 return await
                    (from s in banco.SistemaFinanceiro
                     join c in banco.Categoria on s.Id equals c.IdSistema
@@ -40,6 +40,7 @@ namespace Infra.Repositorio
         {
             using (var banco = new ContextBase(_OptionsBuilder))
             {
+                // Query para o trazer tdas as despesas não pagas do usuario
                 return await
                    (from s in banco.SistemaFinanceiro
                     join c in banco.Categoria on s.Id equals c.IdSistema

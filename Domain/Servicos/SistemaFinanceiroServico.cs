@@ -20,7 +20,7 @@ namespace Domain.Servicos
 
         public async Task AdicionarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro)
         {
-             var valido = sistemaFinanceiro.ValidarPropriedadeString(sistemaFinanceiro.Nome, "Nome");
+            var valido = sistemaFinanceiro.ValidarPropriedadeString(sistemaFinanceiro.Nome, "Nome");
 
             if(valido)
             {
