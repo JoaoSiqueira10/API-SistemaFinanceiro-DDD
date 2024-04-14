@@ -541,9 +541,10 @@ D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angula
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\staticwebassets.build.json
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\staticwebassets.development.json
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
-D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\WebApi.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\refint\WebApi.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\WebApi.pdb
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\WebApi.sourcelink.json
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\WebApi\obj\Debug\net7.0\WebApi.csproj.Up2Date

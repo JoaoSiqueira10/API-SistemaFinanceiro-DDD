@@ -70,3 +70,4 @@ D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angula
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Entities\obj\Debug\net7.0\refint\Entities.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Entities\obj\Debug\net7.0\Entities.pdb
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Entities\obj\Debug\net7.0\ref\Entities.dll
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Entities\obj\Debug\net7.0\Entities.sourcelink.json

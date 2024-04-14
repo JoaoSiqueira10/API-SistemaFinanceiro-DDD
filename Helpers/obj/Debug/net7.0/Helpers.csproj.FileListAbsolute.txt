@@ -49,7 +49,6 @@ C:\PROJETO_FINANCEIRO\PROJETO_FINANCEIRO_AULA1\Financeiro_2023 - parte8\Helpers\
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.deps.json
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.pdb
-D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
@@ -58,3 +57,4 @@ D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angula
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.pdb
 D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+D:\JG WorkFile\Programação\C#\Financeiro DDD\Sistema Financeiro DDD com Angular\API-Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.sourcelink.json
